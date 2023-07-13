@@ -1,0 +1,47 @@
+.feedback{
+      width: 100%;
+      height: 100vh ;
+      margin: 0px;
+      color: antiquewhite;
+      font-family: Arial, Helvetica, sans-serif;
+      box-sizing: border-box;
+      background-image: linear-gradient(to right,#2E3192 , #1BFFFF);
+      
+}
+
+.f1{
+    border: 1px solid black;
+    width: 300px;
+    height: 500px;
+    margin-left: 40%;
+    padding-left: 30px;
+    margin-top: 30px;
+    border-radius: 10px;
+    background-color: white;
+    
+}
+p{
+    color: black;
+}
+.feedback_inner{
+    border-radius: 10px;
+    border: none;
+    border-bottom: 1px solid wheat;
+
+}
+.fb1{
+    margin: 20px;
+    width: 80%;
+    height: 30px;
+    margin-top: 30px;
+    background-image: linear-gradient(to right,#2E3192 , #1BFFFF);
+    font-size: larger;
+    color: aliceblue;
+}
+#message{
+    height: 100px;
+    width: 200px;
+  
+   
+
+}
