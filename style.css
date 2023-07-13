@@ -37,11 +37,10 @@ p{
     background-image: linear-gradient(to right,#2E3192 , #1BFFFF);
     font-size: larger;
     color: aliceblue;
+    border:none;
+    border-bottom:1px solid wheat;
 }
 #message{
     height: 100px;
     width: 200px;
-  
-   
-
 }
